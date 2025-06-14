@@ -10,11 +10,22 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Graduate** pursuing **MS @ CSU East Bay**
-- 💻 **Mobile & Web Developer** with passion for creating innovative solutions
-- 🌱 Currently exploring **AI/ML** and **Cloud Technologies**
-- 🔍 **Open to opportunities** in Software Development
-- 📫 Reach me at: **digvijayingole55@gmail.com**
+- 🎓 **MS Computer Science @ CSU East Bay** | **B.E. Computer Engineering**
+- 🤖 **AI Software Engineer** with 2+ years of experience building scalable applications
+- 🌟 **Specializations:** AI/ML Engineering, Flutter Mobile Development, Full-Stack Web Development
+- 🔬 **Current Focus:** Computer Vision, NLP, Generative AI, and Cloud Infrastructure
+- 🎯 **Actively seeking:** Software Engineer, AI Engineer, Full-Stack Developer roles
+- 📍 **Location:** Hayward, CA | Open to remote opportunities
+- 📫 **Contact:** digvijayingole55@gmail.com
+
+## 🏆 Key Achievements
+
+- 🎯 **95% Accuracy** on GIAI benchmark with Agent DiNeo AI system
+- 🚀 **40% Performance Improvement** through algorithm optimization
+- 👥 **35% User Engagement Increase** via intuitive UI/UX design
+- 🔒 **29% Security Enhancement** with robust encryption implementation
+- 📈 **450+ Concurrent Transactions** supported in fintech platform
+- 🎨 **8+ Production Applications** across mobile and web platforms
 
 ## 🛠️ Tech Stack
 
@@ -24,16 +35,24 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 ### Frameworks & Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### Tools & Platforms
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -48,21 +67,35 @@
 
 ## 🌟 Featured Projects
 
-### 🏠 [Homez - Smart Home Management](https://github.com/DigvijayIngole55/homez)
-- Smart home automation and management system
-- **Tech:** Python, IoT, Web Technologies
+### 🤖 [Agent DiNeo - AI Research Assistant](https://github.com/DigvijayIngole55/agent-dineo-new)
+- **Modular AI system achieving 95% accuracy on GIAI benchmark**
+- **Tech:** Python, LangGraph, AI Agent Frameworks, Multi-Modal LLMs
+- **Impact:** Advanced semantic understanding and tool orchestration
 
-### 🤖 [Astro UI - Gaia Sky Launcher with AI](https://github.com/DigvijayIngole55/astro-public)
-- Astronomical visualization with integrated AI assistant
-- **Tech:** Python, Ollama, Gemma Models
+### 🚀 [Resume Automation + Job Tracker](https://github.com/DigvijayIngole55/resume-customizer)
+- **Intelligent resume customization with application tracking dashboard**
+- **Tech:** Python, LaTeX, CSV Analytics, Web Dashboard
+- **Features:** Auto-generates tailored resumes/cover letters, tracks applications
 
-### 🛒 [GrocerEase - Grocery Management](https://github.com/DigvijayIngole55/GrocerEase)
-- Smart grocery shopping and inventory management
-- **Tech:** Mobile Development, Flutter
+### 🏠 [Homez - AI-Powered Smart Home](https://github.com/DigvijayIngole55/homez)
+- **Computer vision-enabled home management with AI assistant**
+- **Tech:** Swift, CoreML, Vision Framework, Speech Recognition
+- **Features:** Face detection, expense tracking, nutrition analysis
 
-### 💪 [FitFlow - Fitness Tracking](https://github.com/DigvijayIngole55/FitFlow)
-- Comprehensive fitness tracking and workout planning
-- **Tech:** Mobile Development, Health APIs
+### 🌟 [Astro UI - Gaia Sky Launcher with AI](https://github.com/DigvijayIngole55/astro-public)
+- **Astronomical visualization platform with integrated AI assistant**
+- **Tech:** Python, Ollama, Gemma Models, Gaia Sky Integration
+- **Features:** AI-guided celestial tours, space data visualization
+
+### 🛒 [GrocerEase - Smart Grocery Platform](https://github.com/DigvijayIngole55/GrocerEase)
+- **Flutter-based grocery management with intelligent features**
+- **Tech:** Flutter, Dart, Firebase, Real-time Database
+- **Features:** Inventory management, smart shopping lists, analytics
+
+### 💪 [FitFlow - Comprehensive Fitness Tracker](https://github.com/DigvijayIngole55/FitFlow)
+- **Health and fitness tracking with advanced analytics**
+- **Tech:** Flutter, Health APIs, Data Visualization
+- **Features:** Workout planning, progress tracking, health insights
 
 ## 📈 Activity Graph
 
@@ -73,6 +106,24 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+## 🎓 Certifications & Learning
+
+- 🤖 **Prompt Design in Vertex AI** - Google (April 2025)
+- 🛠️ **AI Agents Fundamentals** - Hugging Face (March 2025)
+- 💡 **Problem Solving** - HackerRank (June 2024)
+- 📊 **Data-Driven Decisions** - Coursera (October 2022)
+- 📱 **Flutter Bootcamp with Dart** - Udemy (September 2020)
+
+## 📊 Application Tracking Dashboard
+
+Currently tracking **8 active job applications** with companies like:
+- 🏢 **Pinterest** - Software Engineer I (94% match)
+- 🤖 **Cleanlab** - AI Engineer (92% match)  
+- 🏭 **Honeywell** - Software Engineer I (91% match)
+- 📐 **Stackline** - Software Development Engineer (89% match)
+
+*Success Rate: Optimizing applications with tailored resumes and intelligent tracking*
 
 ## 📫 Let's Connect!
 
