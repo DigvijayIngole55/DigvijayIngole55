@@ -1,7 +1,11 @@
 # Hi there, I'm Digvijay Sanjay Ingole! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CS+Graduate+%7C+MS+%40+CSU+East+Bay;Mobile+%26+Web+Developer;Python+%7C+C%2B%2B+%7C+Flutter+Expert;Always+learning+new+technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&size=24&center=true&vCenter=true&width=500&lines=🎓+CS+Graduate+%7C+MS+%40+CSU+East+Bay;💻+Mobile+%26+Web+Developer;🐍+Python+%7C+⚡+C%2B%2B+%7C+🦋+Flutter+Expert;🚀+Building+the+future+with+code;🌟+Always+learning+new+technologies!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 🚀 About Me
@@ -34,15 +38,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DigvijayIngole55&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DigvijayIngole55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayIngole55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DigvijayIngole55&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayIngole55&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DigvijayIngole55&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
@@ -66,34 +67,33 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DigvijayIngole55&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DigvijayIngole55&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=FFFFFF" alt="Activity Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DigvijayIngole55&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 📫 Let's Connect!
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digvijayingole55@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigvijayIngole55)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/DigvijayIngole55/portfolio-website)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digvijayingole55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigvijayIngole55)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/DigvijayIngole55/portfolio-website)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digvijayingole55/)
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DigvijayIngole55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DigvijayIngole55?label=Followers&style=social" alt="Followers" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+  <img src="https://komarev.com/ghpvc/?username=DigvijayIngole55&label=Profile%20views&color=70A5FD&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DigvijayIngole55?label=Followers&style=for-the-badge&color=70A5FD&labelColor=1A1B27" alt="Followers" />
+</div>
 
+<div align="center">
+  <h3>💫 "Building tomorrow's solutions with today's code" 💫</h3>
 </div>
