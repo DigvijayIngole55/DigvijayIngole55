@@ -54,36 +54,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayIngole55&layout=compact&theme=radical"/>
 </div>
 
-
-
-## 🎯 What I'm Building
-
-**My Approach:** Take an idea → Architect the solution → Ship the code
-
-- 🤖 **Production AI Agents** - Multi-modal systems with LangGraph orchestration and 15+ tool integration
-- 🎙️ **Voice AI Systems** - Real-time conversation interfaces with sub-second latency optimization  
-- 📱 **Cross-platform Apps** - Flutter applications with seamless AI integration and real-time features
-- ⚡ **Performance Optimization** - Achieving 42% response time improvements through intelligent caching
-
-## 🏆 Key Achievements
-
-**Technical Innovation**
-- **Silent Context Injection** - Novel pattern for maintaining visual awareness in conversational AI
-- **FirstQueryHandler Architecture** - Optimized visual-first interaction patterns
-- **Multi-provider LLM Resilience** - Intelligent fallback systems with automated retry logic
-
-**Performance Impact**
-- **95% accuracy** in technical sketch generation through prompt optimization strategies
-- **42% response time improvement** through intelligent caching and optimization
-- **450+ concurrent transactions** supported in production fintech applications  
-- **Sub-second latency** for real-time multimodal AI analysis
-- **Strategic API usage** to overcome hardware constraints (8GB RAM limitation)
-
-**Problem-Solving Excellence**
-- **Successful pivot** from failed astronomy AI project to successful gaming assistant
-- **Real-world solutions** that address immediate user pain points
-- **Enterprise-grade systems** reducing operational overhead through automation
-
 ## 🎓 Recent Certifications
 
 ![DeepLearning.ai](https://img.shields.io/badge/DeepLearning.ai-0052CC?style=for-the-badge&logo=coursera&logoColor=white)
