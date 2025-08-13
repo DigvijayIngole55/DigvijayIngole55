@@ -1,150 +1,107 @@
-# Hi there, I'm Digvijay Sanjay Ingole! 👋
+# Hey there! I'm Digvijay Ingole 👋
+
+**Generative AI Engineer | Full-Stack Developer | AI/ML Enthusiast**
+
+🎓 **MS Computer Science Graduate** from California State University, East Bay  
+📍 **Based in San Francisco, California**  
+🚀 **Passionate about** building full-stack AI products that solve real-world problems  
+💡 **Specializing in** Multi-modal AI Agents, RAG Pipelines, LLM-powered Tools, and Production Mobile Apps
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digvijay-sanjay-ingole/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://digvijay-ingole-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digvijayingole55@gmail.com)
+
+## 🔥 Featured Projects
+
+| Project Name & Link | Brief Description |
+|---------------------|-------------------|
+| [🎮 Specta - Voice Gaming Assistant](https://github.com/DigvijayIngole55/specta) | Context-aware AI assistant that captures game screens and provides real-time help through voice interaction. Features custom wake word detection, Gemini Vision analysis, and "silent context injection" for seamless conversations. **Challenge overcome:** Pivoted from failed astronomy project due to hardware constraints. |
+| [🤖 Agent DiNeo - Multi-Modal AI Assistant](https://github.com/DigvijayIngole55/agent-dineo) | Sophisticated AI agent orchestrating 15+ specialized tools with comprehensive RAG pipeline. Supports semantic search across Wikipedia, arXiv, and YouTube. **42% response time improvement** through intelligent caching and multi-provider LLM resilience. |
+| [👗 Fashion AI Sketch Generator](https://github.com/DigvijayIngole55/fashion-app) | Computer vision-powered technical sketch generator using Google Gemini 2.0 Flash API. Features automated POM labeling, multi-modal AI workflows, and size chart generation across US/EU/UK systems. **95% accuracy** achieved through iterative prompt engineering and RAG pipeline optimization. |
+| [🍳 Recipeee - AI Recipe Platform](https://github.com/DigvijayIngole55/recipe-backend.git) | Cross-platform mobile app with AI recipe generation using Gemini 1.5 Flash. Features OCR grocery bill scanning with Tesseract.js, real-time WebSocket communication, and personalized recipe suggestions from available ingredients. |
+
+## 🛠️ Tech Stack & Tools
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+
+**Specialized:** LangGraph, RAG Systems, Transformers, Gemini 2.0 Flash, Gemini 2.5 Flash, Whisper, Deepgram, Pipecat-ai
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Additional:** FastAPI, Swift, WebSocket, RESTful APIs
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Vector & Specialized:** Weaviate, Qdrant, Redis, Firebase, GCP, Tesseract.js OCR
+
+## 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&size=24&center=true&vCenter=true&width=500&lines=🎓+CS+Graduate+%7C+MS+%40+CSU+East+Bay;💻+Mobile+%26+Web+Developer;🐍+Python+%7C+⚡+C%2B%2B+%7C+🦋+Flutter+Expert;🚀+Building+the+future+with+code;🌟+Always+learning+new+technologies!" alt="Typing SVG" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DigvijayIngole55&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayIngole55&layout=compact&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-## 🚀 About Me
 
-- 🎓 **MS Computer Science @ CSU East Bay** | **B.E. Computer Engineering**
-- 🤖 **AI Software Engineer** with 2+ years of experience building scalable applications
-- 🌟 **Specializations:** AI/ML Engineering, Flutter Mobile Development, Full-Stack Web Development
-- 🔬 **Current Focus:** Computer Vision, NLP, Generative AI, and Cloud Infrastructure
-- 🎯 **Actively seeking:** Software Engineer, AI Engineer, Full-Stack Developer roles
-- 📍 **Location:** Hayward, CA | Open to remote opportunities
-- 📫 **Contact:** digvijayingole55@gmail.com
+## 🎯 What I'm Building
+
+**My Approach:** Take an idea → Architect the solution → Ship the code
+
+- 🤖 **Production AI Agents** - Multi-modal systems with LangGraph orchestration and 15+ tool integration
+- 🎙️ **Voice AI Systems** - Real-time conversation interfaces with sub-second latency optimization  
+- 📱 **Cross-platform Apps** - Flutter applications with seamless AI integration and real-time features
+- ⚡ **Performance Optimization** - Achieving 42% response time improvements through intelligent caching
 
 ## 🏆 Key Achievements
 
-- 🎯 **95% Accuracy** on GIAI benchmark with Agent DiNeo AI system
-- 🚀 **40% Performance Improvement** through algorithm optimization
-- 👥 **35% User Engagement Increase** via intuitive UI/UX design
-- 🔒 **29% Security Enhancement** with robust encryption implementation
-- 📈 **450+ Concurrent Transactions** supported in fintech platform
-- 🎨 **8+ Production Applications** across mobile and web platforms
+**Technical Innovation**
+- **Silent Context Injection** - Novel pattern for maintaining visual awareness in conversational AI
+- **FirstQueryHandler Architecture** - Optimized visual-first interaction patterns
+- **Multi-provider LLM Resilience** - Intelligent fallback systems with automated retry logic
 
-## 🛠️ Tech Stack
+**Performance Impact**
+- **95% accuracy** in technical sketch generation through prompt optimization strategies
+- **42% response time improvement** through intelligent caching and optimization
+- **450+ concurrent transactions** supported in production fintech applications  
+- **Sub-second latency** for real-time multimodal AI analysis
+- **Strategic API usage** to overcome hardware constraints (8GB RAM limitation)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Problem-Solving Excellence**
+- **Successful pivot** from failed astronomy AI project to successful gaming assistant
+- **Real-world solutions** that address immediate user pain points
+- **Enterprise-grade systems** reducing operational overhead through automation
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+## 🎓 Recent Certifications
 
-### Frameworks & Technologies
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![DeepLearning.ai](https://img.shields.io/badge/DeepLearning.ai-0052CC?style=for-the-badge&logo=coursera&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Retrieval Augmented Generation (RAG)** - DeepLearning.ai (July 2025)
+- **MCP Course** - Hugging Face (July 2025)  
+- **AI Agents Excellence** - Hugging Face (June 2025)
 
-## 📊 GitHub Stats
+## 🌐 Let's Connect & Collaborate
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DigvijayIngole55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayIngole55&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+I'm always excited to discuss AI architecture, solve technical challenges, or brainstorm breakthrough applications. Whether you're building the next AI product or need someone who can turn constraints into innovative solutions, let's chat!
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DigvijayIngole55&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak" />
-</div>
+- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/digvijay-sanjay-ingole/)
+- 📧 **Direct Contact:** [Email](mailto:digvijayingole55@gmail.com)  
+- 🌍 **Portfolio & Demos:** [Live Projects](https://digvijay-ingole-portfolio.vercel.app/)
+- 📍 **Location:** San Francisco Bay Area
 
-## 🌟 Featured Projects
+---
 
-### 🤖 [Agent DiNeo - AI Research Assistant](https://github.com/DigvijayIngole55/agent-dineo-new)
-- **Modular AI system achieving 95% accuracy on GIAI benchmark**
-- **Tech:** Python, LangGraph, AI Agent Frameworks, Multi-Modal LLMs
-- **Impact:** Advanced semantic understanding and tool orchestration
-
-### 🚀 [Resume Automation + Job Tracker](https://github.com/DigvijayIngole55/resume-customizer)
-- **Intelligent resume customization with application tracking dashboard**
-- **Tech:** Python, LaTeX, CSV Analytics, Web Dashboard
-- **Features:** Auto-generates tailored resumes/cover letters, tracks applications
-
-### 🏠 [Homez - AI-Powered Smart Home](https://github.com/DigvijayIngole55/homez)
-- **Computer vision-enabled home management with AI assistant**
-- **Tech:** Swift, CoreML, Vision Framework, Speech Recognition
-- **Features:** Face detection, expense tracking, nutrition analysis
-
-### 🌟 [Astro UI - Gaia Sky Launcher with AI](https://github.com/DigvijayIngole55/astro-public)
-- **Astronomical visualization platform with integrated AI assistant**
-- **Tech:** Python, Ollama, Gemma Models, Gaia Sky Integration
-- **Features:** AI-guided celestial tours, space data visualization
-
-### 🛒 [GrocerEase - Smart Grocery Platform](https://github.com/DigvijayIngole55/GrocerEase)
-- **Flutter-based grocery management with intelligent features**
-- **Tech:** Flutter, Dart, Firebase, Real-time Database
-- **Features:** Inventory management, smart shopping lists, analytics
-
-### 💪 [FitFlow - Comprehensive Fitness Tracker](https://github.com/DigvijayIngole55/FitFlow)
-- **Health and fitness tracking with advanced analytics**
-- **Tech:** Flutter, Health APIs, Data Visualization
-- **Features:** Workout planning, progress tracking, health insights
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DigvijayIngole55&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=FFFFFF" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🎓 Certifications & Learning
-
-- 🤖 **Prompt Design in Vertex AI** - Google (April 2025)
-- 🛠️ **AI Agents Fundamentals** - Hugging Face (March 2025)
-- 💡 **Problem Solving** - HackerRank (June 2024)
-- 📊 **Data-Driven Decisions** - Coursera (October 2022)
-- 📱 **Flutter Bootcamp with Dart** - Udemy (September 2020)
-
-## 📊 Application Tracking Dashboard
-
-Currently tracking **8 active job applications** with companies like:
-- 🏢 **Pinterest** - Software Engineer I (94% match)
-- 🤖 **Cleanlab** - AI Engineer (92% match)  
-- 🏭 **Honeywell** - Software Engineer I (91% match)
-- 📐 **Stackline** - Software Development Engineer (89% match)
-
-*Success Rate: Optimizing applications with tailored resumes and intelligent tracking*
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digvijayingole55@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigvijayIngole55)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/DigvijayIngole55/portfolio-website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digvijayingole55/)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DigvijayIngole55&label=Profile%20views&color=70A5FD&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DigvijayIngole55?label=Followers&style=for-the-badge&color=70A5FD&labelColor=1A1B27" alt="Followers" />
-</div>
-
-<div align="center">
-  <h3>💫 "Building tomorrow's solutions with today's code" 💫</h3>
-</div>
+*"Sometimes the best solutions come from constraints. My journey from a failed astronomy AI to a successful gaming assistant taught me that pivoting isn't giving up—it's finding the right problem to solve."*
